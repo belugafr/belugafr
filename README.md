@@ -1,10 +1,8 @@
-### Hi there ❤️ Im NayaWeb
+### Hi there ❤️ Im Plume
 ### Computer 💻💕
-<a href="https://discord.c99.nl/widget/theme-1/1142148870177038487.png">
-   <img src="https://discord.c99.nl/widget/theme-1/1142148870177038487.png" alt="Naya - Développeuse principale d'Elektra">
-</a>
+
 <!--
-**belugafr/belugafr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
